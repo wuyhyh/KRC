@@ -21,4 +21,4 @@ add_executable(k
         Chapter2/p2_10.c Chapter2/p2_7.c Chapter2/leap.c Chapter2/p2_8.c Chapter2/p2_9_1.c Chapter2/bit.c
         Chapter1/hello.c Chapter1/p1_2_1.c Chapter1/p1_2.c Chapter1/p1_3.c
         Chapter1/p1_4.c Chapter1/p1_7.c Chapter1/p1_8.c Chapter1/p1_9.c Chapter1/P1.5/p1_5_1.c Chapter1/P1.5/p1_5_2.c
-        Chapter1/P1.5/p1_5_3.c Chapter1/P1.5/p1_5_4.c)
+        Chapter1/P1.5/p1_5_3.c Chapter1/P1.5/p1_5_4.c Chapter1/P1.10/variable.c)
